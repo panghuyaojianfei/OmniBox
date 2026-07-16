@@ -1,1 +1,14 @@
-
+{
+  "version": "v1.0.0",
+  "date": "2026-07-16",
+  "changelog": [
+    "🚀 OmniBox 纯本地极客脚本工具箱正式发布！",
+    "✨ 支持前端 Vue3 + 硬件/软件多引擎驱动",
+    "⚡ 独家注入全选批量导入导出及高清星芒点击特效"
+  ],
+  "links": {
+    "github": "https://github.com/panghuyaojianfei/OmniBox/releases/download/v1.0.0/OmniBox.zip",
+    "gitee": "https://gitee.com/xxx (如果你建了码云，可以先填主页，没有就先乱填一个)",
+    "lanzou": "https://lanzoui.com/xxx (你的蓝奏云分享地址，没有可先空着)"
+  }
+}
