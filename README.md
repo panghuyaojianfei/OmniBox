@@ -39,8 +39,8 @@ function Main(){
         Print(`当前点击第 ${++count} 次`)
     }
 }
+```
+<img width="1436" height="793" alt="第一个" src="https://github.com/user-attachments/assets/5c94846c-37c0-4c6e-9777-2ae12d286be7" />
 
-<img width="1436" height="793" alt="第一个" src="https://github.com/user-attachments/assets/9e837ed8-b663-4e16-b4f3-bf7d8f98eaa1" />
-
-<img width="1436" height="793" alt="第二个" src="https://github.com/user-attachments/assets/f6eadbe5-8283-445b-a293-3fca6ba55389" />
+<img width="1436" height="793" alt="第二个" src="https://github.com/user-attachments/assets/b006ada3-6a1e-44d3-8318-beef3e6fdfe8" />
 
