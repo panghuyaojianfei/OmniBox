@@ -6,8 +6,8 @@
     "⚡ 自动检测仓库是否有新版本"
   ],
   "links": {
-    "github": "https://github.com/panghuyaojianfei/OmniBox/releases/download/v1.0.1/OmniBox.zip",
-    "gitee": "https://gitee.com/sycn/omni-box/releases/download/v1.0.1/OmniBox.zip",
+    "github": "https://github.com/panghuyaojianfei/OmniBox/releases",
+    "gitee": "https://gitee.com/sycn/omni-box/releases",
     "lanzou": "https://wwbqk.lanzouu.com/b0umcnjvi"
   }
 }
