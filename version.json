@@ -1,9 +1,8 @@
 {
-  "version": "v1.0.1",
-  "date": "2026-07-16",
+  "version": "v1.0.2",
+  "date": "2026-07-20",
   "changelog": [
-    "🚀 OmniBox 纯本地极客脚本工具箱正式发布！",
-    "⚡ 自动检测仓库是否有新版本"
+    "缺少相关dll导致启动异常，重新编译"
   ],
   "links": {
     "github": "https://github.com/panghuyaojianfei/OmniBox/releases",
